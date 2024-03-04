@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">e-comm1</string>
+    <string name="register">       DONT HAVE AN ACCOUNT\n    REGISTER HERE!!</string>
+    <string name="login">     ALLREDY HAVE AN ACCOUNT\nLOGIN HERE!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_available_to_show_here">Your Favorite List Is Empty \nNo Data available To Show Here!!</string>
+    <string name="cart_no_data">Your Cart Is Empty \nNo Data available To Show Here!!</string>
+    <string name="order_no_data">Your Oredr List Is Empty \nNo Data available To Show Here!!</string>
+</resources>
